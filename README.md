@@ -11,3 +11,6 @@
 Unity version:
 项目使用版本 - 2019.1.0f2
 
+笔记：
+CameraNote.pdf文件
+关于Camera的主要特性、概念的树状图

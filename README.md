@@ -16,3 +16,6 @@ Unity version:
 
 CameraNote.pdf文件
 （关于Camera的主要特性、概念的树状图）
+
+PS:
+某些脚本代码是为解决用户问题写的临时测试代码，与Demo主题无关。
